@@ -15,7 +15,7 @@
 
 ---
 
-# 👋 Hello, I'm Awdhesh Prajapati
+# Hello, I'm Awdhesh Prajapati
 
 I am a **Senior Java Backend Developer** with **5+ years of experience** in designing, developing, and maintaining enterprise-grade backend applications.
 
